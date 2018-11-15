@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = 'tasks'
+  s.name        = 'gem_tasks'
   s.date	= '2018-11-10'
   s.version     = '0.5.0'
   s.licenses    = 'MIT'
